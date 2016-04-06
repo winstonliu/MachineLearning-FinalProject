@@ -1,6 +1,6 @@
 matfiles/*
 myNNFcn.m
 nn.m
-*.csv
 *.mat
+*.csv
 *.pdf
