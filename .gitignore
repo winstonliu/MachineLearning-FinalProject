@@ -1,0 +1,6 @@
+matfiles/*
+myNNFcn.m
+nn.m
+*.csv
+*.mat
+*.pdf
